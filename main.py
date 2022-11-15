@@ -12,9 +12,9 @@ import os
 id = os.environ["id"]
 pwd = os.environ["pwd"]
 # 邮箱信息
-MAIL_USER = os.environ["MAIL_USER"]  # QQ邮箱账户
-MAIL_PWD = os.environ["MAIL_PWD"]  # QQ邮箱授权码
-MAIL_TO = os.environ["MAIL_TO"]  # QQ邮箱账户
+#MAIL_USER = os.environ["MAIL_USER"]  # QQ邮箱账户
+#MAIL_PWD = os.environ["MAIL_PWD"]  # QQ邮箱授权码
+#MAIL_TO = os.environ["MAIL_TO"]  # QQ邮箱账户
 
 
 
